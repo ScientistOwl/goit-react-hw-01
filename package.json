@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build-github": "vite build --base=/template-react-vite-project/",
+    "build-github": "vite build --base=/goit-react-hw-01/",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
